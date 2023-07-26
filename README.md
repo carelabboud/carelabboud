@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @carelabboud
-- 👀 I’m interested in architecture(yes, the buildings' one), data analysis and computer science and the intersection of the three
+- 👀 I’m interested in developing new ways to quantify, analyse and synthesis data to facilitate dicision making in the construction industry
 - 🌱 I’m currently learning computational architecture and digital building design in ecole des ponts et chaussee paris tech. learning c# right now. 
 - 💞️ I’m looking to collaborate on projects that link data analysis to the construction industry
 - 📫 How to reach me : linkedin profile 
